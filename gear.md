@@ -15,6 +15,8 @@ I added some things to the bike:
 * SW Motech bash plate
 * Barkbuster handguards
 
+After checking out the Adventure Spec Magadan bags, which I could not get to sit properly on my bike, I ordered a set oft MoskoMoto bags (Backcountry 35l set, 2x 4l addon pockets and the 60l duffel for the back (which I hope to use as a backpack when I park the bike)).
+
 ## Camping
 * Tent: MSR Elixir 2
 * Cooker: MSR Whisperlite
@@ -26,3 +28,4 @@ I added some things to the bike:
 * Held Summertime II light gloves
 * Vanucci VC-1 winter gloves
 * Schubert E1 Helmet with Senca SC10u bluetooth system
+* Garmin Inreach Explorer+ GPS cracker and SOS device
