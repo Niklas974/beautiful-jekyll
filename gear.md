@@ -8,12 +8,15 @@ subtitle: Some of the equipment I use on my way
 I ride a 2003 [BMW F650 GS Dakar](https://en.wikipedia.org/wiki/BMW_F_series_single-cylinder#2000%E2%80%932007:_F650GS,_F650GS_Dakar,_and_G650X) which I bought in autumn with 20.000 km on the clock.
 It is a single cylinder machine with 650cm³ which produces 37 kW (50 hp). I added some things before starting
 
-(photo coming soon)
+ ![My bike][bike] My bike
 
 I added some things to the bike:
 * SW Motech engine guard
 * SW Motech bash plate
 * Barkbuster handguards
+* Touratech radiator guards
+* SW Motech lower and wider footpegs
+* Touratech Topcase holder
 
 After checking out the Adventure Spec Magadan bags, which I could not get to sit properly on my bike, I ordered a set oft MoskoMoto bags (Backcountry 35l set, 2x 4l addon pockets and the 60l duffel for the back (which I hope to use as a backpack when I park the bike)).
 
@@ -28,4 +31,6 @@ After checking out the Adventure Spec Magadan bags, which I could not get to sit
 * Held Summertime II light gloves
 * Vanucci VC-1 winter gloves
 * Schubert E1 Helmet with Senca SC10u bluetooth system
-* Garmin Inreach Explorer+ GPS cracker and SOS device
+* Garmin Inreach Explorer+ GPS tracker and SOS device
+
+[bike]: /img/gear-bike.jpg "My bike"
