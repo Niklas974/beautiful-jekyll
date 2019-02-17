@@ -11,30 +11,30 @@ categories: blog travel
 I set off to the border of Turkmenistan earlyish and rode to Bajgiran. I filled up my bike, exchanged my remaining Rials for USD and set off for the border. The Iranian side of the border was pretty straightforward, as soon as I had found the right office to start at. I left Iran around noon and arrived right on time for the Turkmen to start their lunchbreak.I had to go through immigration first and left my bike outside. As I had heard a few scary stories about Turkmenistan and specifically this border crossing*, I was prepared for a few suprises. 
 After paying my 14 USD for immigration, I continued to get my bike processed. I was led to the first office, where an old guy calculated the fee for my bike. I don’t like to pay for entering a country but he seemed to calculate correctly. Insurance + road tax for the distance + fuel subsidize compensation + other stuff = 64 USD. OK, I knew what to expect. After handing me the paper he asked for 10 USD. Being the dumb tourist, the conversation went like this:
 
-Clerk *handing me the paper*: “give me 10 USD”
-Me: *gives him a 10 $ note* “Can I get a receipt please?”
-Clerk: *stuffing the money in his pocket*: “what?”
-Me: *imitating writing something on paper*: “A receipt for the money, please.”
-Clerk: “no, receipt no. Is for cai (tea)”
-Me: “No sir, I don’t pay for your cai. Please give me a receipt.”
-Clerk: “No receipt, is tip for me.”
-Me: *pointing at his pocket and gesturing him to give back the money*: “No receipt, no dollar!”
-Clerk: *reluctantly hands me back my 10 USD*
+Clerk *handing me the paper*: “give me 10 USD”  
+Me: *gives him a 10 $ note* “Can I get a receipt please?”  
+Clerk: *stuffing the money in his pocket*: “what?”  
+Me: *imitating writing something on paper*: “A receipt for the money, please.”  
+Clerk: “no, receipt no. Is for cai (tea)”  
+Me: “No sir, I don’t pay for your cai. Please give me a receipt.”  
+Clerk: “No receipt, is tip for me.”  
+Me: *pointing at his pocket and gesturing him to give back the money*: “No receipt, no dollar!”  
+Clerk: *reluctantly hands me back my 10 USD*  
 
 My new “friend” then escorted me to the “bank” where I paid my 64 USD + 4 USD bank fee. As I got a stamp for my collection I did not argue with that. After that I was escorted to the veterinary who asked me something I forgot, stamped my paper and asked for a tip. I, being a very dumb tourist, smiled at him and shook his hand instead of putting some dollar in.
 I went to the doctor next. He seemed to have heard about the dumb tourist, so my visit went like this:
 
-Doctor: *measures the temperature of my forehead*: “very good”
-Me: *thinking about why the temperature of my forehead is significant*
-Doctor: *stamps my paper*: “I medicine doctor. I money”
-Me: *taking the paper*: “Nice to meet you, I’m a computer engineer”
-Doctor: *remembering that I’m stupid*: “I need dollar”
-Doctor: *offering his hand to put some money in*: “Give me Money”
-Me: *shaking his hand*: “Thank you very much, sir. Have a nice day”
-Doctor: *gripping my hand stronger*: “Doctor. Money. Doctor. Money. Doctor. Money”
-Me: *smiling at him while shaking his hand*: “Nice to meet you, Doctor Money. See you next time”
-Doctor: *looking like he does not know what to say*
-Me: *leaving the room*
+Doctor: *measures the temperature of my forehead*: “very good”  
+Me: *thinking about why the temperature of my forehead is significant*  
+Doctor: *stamps my paper*: “I medicine doctor. I money”  
+Me: *taking the paper*: “Nice to meet you, I’m a computer engineer”  
+Doctor: *remembering that I’m stupid*: “I need dollar”  
+Doctor: *offering his hand to put some money in*: “Give me Money”  
+Me: *shaking his hand*: “Thank you very much, sir. Have a nice day”  
+Doctor: *gripping my hand stronger*: “Doctor. Money. Doctor. Money. Doctor. Money”  
+Me: *smiling at him while shaking his hand*: “Nice to meet you, Doctor Money. See you next time”  
+Doctor: *looking like he does not know what to say*  
+Me: *leaving the room*  
 
 After managing to complete my stamp collection without paying any “tips”, I went to get my luggage inspected. They asked if I carried any weapons, drugs or drones but only inspected the top of my luggage. Because I conveniently forgot about the cigarette lighter connector under my seat, they could not equip me with a GPS tracking system and sent me off without one.
 The whole procedure at the border crossing took about 3 hours.
