@@ -97,8 +97,8 @@ As Natasha has the better camera as well as being more talented at photography I
 
 ```
 written from Karlsruhe, Germany
-total km ridden: 135917
-bike dropped: 8x
+total km ridden: 136549
+bike dropped: 10x
 fallen: 1x
 tickets: 1x
 ```
