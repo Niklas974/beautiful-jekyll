@@ -7,8 +7,8 @@ categories: blog travel
 ---
 
 I left Dushanbe with another German and an Austrian rider. 
-We decided to take the northern route to Khalai Khum even though this is the more difficult route, it is also supposed to be the more scenic one.
-Also the terrorist attack had happened on the southern route and we felt more comfortable avoiding the scene.
+We decided to take the northern route to Khalai Khum, even though this is the more difficult route, it is also supposed to be the more scenic one.
+Also, the terrorist attack had happened on the southern route and we felt more comfortable avoiding the scene.
 One additional benefit was that I was able to gradually improve on my offroading skills.
 I did not need to wait for a long time to get a chance: While the Austrian guy and I preferred a comfortable pace, the other German guy was more adventurous.
 He found a small sandy hill with a big "I love Tajikistan sign" on top of it and decided that we needed to take a photo in front of it.
@@ -17,7 +17,7 @@ I made it up about two thirds until I lost too much speed and got stuck in the s
 We pushed my bike up the rest of the hill and waited for the Austrian guy to join us.
 We thought that it should be easy for him, as he was riding the new Honda Africa Twin with the automatic gearbox and all those fancy little helpers.
 Instead he made it about half the way until his bike decided that it was not able to cope with sand and even though he completely opened his throttle he slowed down to halt and had to gently drop his bike into the sand.
-So much for all those computers that are supposed to make everything better.
+So much for all those computers that are supposed to make everything better. ;)
 After having freed our bikes, we stopped for lunch at a small village on the way where we got some very good Plov and Coke and took some time for a break.
 Both of my fellow riders were still fighting some stomach issues, thus we decided not to go all the way to Khalai Khum, which would have been a long days ride.
 Instead we stopped at about half way down the road at the "Blue Lake Camping" where we pitched our tents and took and went for an awesome swim in the small lake.
@@ -28,31 +28,31 @@ Instead we stopped at about half way down the road at the "Blue Lake Camping" wh
 In the morning we found that the luggage rack of the other German rider who had (gently) dropped his bike into the sand the day before was badly bent.
 The steel frame was not attached to the mounting holes any more and we were afraid that his aluminum boxes would shake loose like this.
 We spent about two hours taking his luggage rack apart and bendig it back by using some big concrete blocks as lever points.
-Afterwards we continued our trip to Khalai Khum where we wanted to meet other riders from Dushanbe who would do the whole trip in just one day.
+Afterwards, we continued our trip to Khalai Khum where we wanted to meet other riders from Dushanbe who would do the whole trip in just one day.
 The roads degraded even further and turned into hard packed dirt and gravel.
 As going was rather slow for us, a crazy dutch guy riding his (old) Africa Twin caught up with us.
 He was riding like a mainiac.
 Even further along the road, Marta and Lukas and Natasha from Russia also caught up with us.
-After taking a break with all the group, it was again for the new Africa Twin to bring trouble.
+After taking a break with the whole the group, it was again for the new Africa Twin to bring trouble along.
 Being an automatic bike, it cannot be put into first gear manually which would normally be used as a parking break.
 To stop if from rolling away it is thus equipped with a manual parking break.
 For some reason it had decided that the spot we had chosen for our break was a great spot to permanently park and would not open said parking break.
 It took us about an hour to take the parking break apart to convince it otherwise and to continue on towards Khalai Khum.
 
 Not only the Africa Twin was impacted by the road, Lukas hit a big rock and burst a tube.
-We helped him changing tubes and had to do the last few kilometers down the mountains and into Khalai Khum in the dark.
+We helped him to change tubes and had to do the last few kilometers down the mountains and into Khalai Khum in the dark.
 
 ![The Austrian Guy riding his Africa Twin][img3] The Austrian Guy riding his Africa Twin
 ![Landscape][img4] Landscape
 
-In Khalai Khum the whole group met and we filled the guesthouses' garage with two German, two Austrian, two Polish, one Russian and one Dutch registered bike.
+In Khalai Khum the whole group met up and we filled the guesthouses' garage with two German, two Austrian, two Polish, one Russian and one Dutch registered bike.
 As we were riding at different speeds, we decided to split up in the morning.
 I grouped up with the Austrian Guy and Natasha from Russia and we continued up the river that separates Tajikistan from Afghanistan towards Khorough
 We were told that we should not camp in this area as occasionally some Afghans were shooting across the river, but I'm not sure if that was just a myth.
 A few times we met some Tajik soldier patrolling the area but otherwise it was a rather uneventful ride at a mostly gravel road.
 As the northern and southern route from Dushanbe meet back up at Khalai Khum, the route we were now riding is also heavily used by lorries which do not like to break for bikers.
 We thus tried to watch far ahead and waited in safe spots in order to not be surprised by an oncoming lorry in one of the steep corners, especially as there was a steep cliff into the river, just right of the road.
-Just before Khorugh we met the group of the faster riders who had been stopped and were invited to a wedding party and were already drunk.
+Just before Khorugh we met the group of the faster riders who had been stopped and invited to a wedding party. They were already drunk.
 They had decided to go up Bartang valley, which is supposed to be very difficult to ride and which I did not dare to take, not the least because I did not want to slow down the more experienced riders.
 In Khorugh the three of us met up with Claudia and Peter who also stayed at the Pamir lodge hostel (the hostel were all the overlanders seem to meet in Khorugh).
 
@@ -78,7 +78,7 @@ Claudia and Peter, the Austrian couple actually crossed over at Ishkashim but I 
 You should definitely watch they [video](https://www.youtube.com/watch?v=nOMglDcOTzE) about the trip into Wakhan (and all their other videos as well).
 
 Instead we continued up the pamir mountains.
-I had found a map in Khorugh, where all the hot springs are marked and we were able to find one where we took turns to wash off last nights sand.
+I had found a map in Khorugh, where all the hot springs are marked and we were able to find one where we took turns to wash off last nights' sand.
 The road was mostly washboard with some hidden sandpits in between.
 We managed to get through without falling, but it hurt my ears listening to my bike shaking on the washboard road.
 In Langard we filled up our bikes at a "fuel station" that was actually a shed that had the word "Gaz" written on it.
@@ -93,7 +93,7 @@ The two girls of the family were very interested in the two foreigners and helpe
 ![In the evening we even met some travellers from outer space!][img8] In the evening we even met some travellers from outer space!
 
 
-As Natasha has the better camera as well as being more talented at photography I'm posting a few pictures taken by her.
+As Natasha has the better camera as well as being more talented at photography, I'm posting a few pictures taken by her.
 
 ```
 written from Karlsruhe, Germany
