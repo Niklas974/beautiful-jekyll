@@ -12,9 +12,9 @@ We set off to the border and smoothly crossed over to Tajikistan. As always I go
 
 We continued up to the first mayor sight on our route: the seven lakes.
 The first few kilometers we rode on good quality roads, which quickly degraded to hard packed dirt and gravel.
-As all my previous offroad experiences had ended rather unpleasant with me falling in one way or another, I was espacially grateful for Lukas' 5-minute how to ride offroad crashcourse.
+As all my previous offroad experiences had ended rather unpleasant with me falling in one way or another, I was especially grateful for Lukas' 5-minute how to ride offroad crash course.
 Bottom-line: stand up, trust your bike, trust your tires.
-I did all of those and we made it up to the sixth lake without crash!
+I did all of that and we made it up to the sixth lake without a crash!
 
 ![Route up to the sixth lake][img1] Route up to the sixth lake
 ![Our small camp for the night][img2] Our small camp for the night
@@ -25,20 +25,20 @@ Marta had a good laugh, while we had a *very* short swim.
 We packed up and got on the road to Dushanbe.
 I found riding downhill on gravel even worse than riding uphill because I now had to worry about braking on the slippery surface, too.
 Trusting my bike and my tires I safely made it down back to the main road.
-Marta and Lukas went on to Iskanderkul, whereas I continued towards Dushanbe where I wanted to meet Claudia and Peter I had previously met in Iran.
+Marta and Lukas went on to Iskanderkul, whereas I continued towards Dushanbe where I wanted to meet Claudia and Peter, who I had previously met in Iran.
 The road was good, but from the mountain pass downwards to Dushanbe I had to pass the Anzob "Tunnel of Death" as it is known by overlanders.
 It is about 5 kilometers long, barely lit and without any ventilation.
 The tunnel is regularly used by trucks and as exhaust filtration does not exist, it is completely filled with dirty exhaust gasses.
 Luckily I "just" had to sit on my bike, try to stay on the road and avoid oncoming trucks as well as keep a speed high enough so that trucks from behind would not catch up with me.
-If you ever cycle in this area, do hitch a ride!
+If you ever cycle in this area, hitch a ride instead!
 
 Sadly it turned out that the accident we had heard about a few days earlier was in fact a terrorist attack in which four western cyclists were murdered [wikipedia](https://en.wikipedia.org/wiki/Terrorist_attack_against_cyclists_in_Tajikistan).
 
 
 ![The sixth lake in the morning][img3] The sixth lake in the morning
-![Lots of bikes at Hello Hostel in Duschanbe][img4] Lots of bikes at Hello Hostel in Dushanbe
+![Lots of bikes at Hello Hostel in Duschanbe][img4] Lots of bikes at “Hello Hostel“ in Dushanbe
 
-I stayed a Hello Hostel in Duschanbe, where I met a few more riders.
+I stayed at “Hello Hostel“ in Duschanbe, where I met a few more riders.
 I did some maintenance on my bike with the help of the local mechanic and we went out for dinner with a total of eight riders.
 
 After one rest day, I set off with another German and an Austrian rider towards Khalai Khum.
