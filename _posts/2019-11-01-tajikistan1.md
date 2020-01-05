@@ -45,7 +45,7 @@ After one rest day, I set off with another German and an Austrian rider towards 
 
 ```
 written from Karlsruhe, Germany
-total km ridden: 15917
+total km ridden: 14216
 bike dropped: 8x
 fallen: 1x
 tickets: 1x
