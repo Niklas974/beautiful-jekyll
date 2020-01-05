@@ -25,8 +25,8 @@ Instead we stopped at about half way down the road at the "Blue Lake Camping" wh
 ![Scenic view on the road][img1] Scenic view on the road
 ![Camping at the blue lake][img2] Camping at the blue lake
 
-In the morning we found that the luggage rack of the other German rider who had (gently) dropped his bike into the sand the day before was badly bent.
-The steel frame was not attached to the mounting holes any more and we were afraid that his aluminum boxes would shake loose like this.
+In the morning we found that the luggage rack of the Austrian rider who had (gently) dropped his bike into the sand the day before was badly bent.
+The metal frame was not attached to the mounting holes any more and we were afraid that his aluminum boxes would shake loose like this.
 We spent about two hours taking his luggage rack apart and bendig it back by using some big concrete blocks as lever points.
 Afterwards, we continued our trip to Khalai Khum where we wanted to meet other riders from Dushanbe who would do the whole trip in just one day.
 The roads degraded even further and turned into hard packed dirt and gravel.
@@ -34,10 +34,10 @@ As going was rather slow for us, a crazy dutch guy riding his (old) Africa Twin 
 He was riding like a mainiac.
 Even further along the road, Marta and Lukas and Natasha from Russia also caught up with us.
 After taking a break with the whole the group, it was again for the new Africa Twin to bring trouble along.
-Being an automatic bike, it cannot be put into first gear manually which would normally be used as a parking break.
-To stop if from rolling away it is thus equipped with a manual parking break.
+Being an automatic bike, it cannot be put into first gear manually which would normally be used as a parking brake.
+To stop if from rolling away it is thus equipped with a manual parking brake.
 For some reason it had decided that the spot we had chosen for our break was a great spot to permanently park and would not open said parking break.
-It took us about an hour to take the parking break apart to convince it otherwise and to continue on towards Khalai Khum.
+It took us about an hour to take the parking brake apart to convince it otherwise and to continue on towards Khalai Khum.
 
 Not only the Africa Twin was impacted by the road, Lukas hit a big rock and burst a tube.
 We helped him to change tubes and had to do the last few kilometers down the mountains and into Khalai Khum in the dark.
@@ -47,12 +47,13 @@ We helped him to change tubes and had to do the last few kilometers down the mou
 
 In Khalai Khum the whole group met up and we filled the guesthouses' garage with two German, two Austrian, two Polish, one Russian and one Dutch registered bike.
 As we were riding at different speeds, we decided to split up in the morning.
-I grouped up with the Austrian Guy and Natasha from Russia and we continued up the river that separates Tajikistan from Afghanistan towards Khorough
+I grouped up with the Austrian guy and Natasha from Russia and we continued up the river that separates Tajikistan from Afghanistan towards Khorough
 We were told that we should not camp in this area as occasionally some Afghans were shooting across the river, but I'm not sure if that was just a myth.
 A few times we met some Tajik soldier patrolling the area but otherwise it was a rather uneventful ride at a mostly gravel road.
-As the northern and southern route from Dushanbe meet back up at Khalai Khum, the route we were now riding is also heavily used by lorries which do not like to break for bikers.
+As the northern and southern route from Dushanbe meet back up at Khalai Khum, the route we were now riding is also heavily used by lorries which do not like to brake for bikers.
 We thus tried to watch far ahead and waited in safe spots in order to not be surprised by an oncoming lorry in one of the steep corners, especially as there was a steep cliff into the river, just right of the road.
-Just before Khorugh we met the group of the faster riders who had been stopped and invited to a wedding party. They were already drunk.
+Just before Khorugh we met the group of the faster riders who had been stopped and invited to a wedding party.
+They were already drunk.
 They had decided to go up Bartang valley, which is supposed to be very difficult to ride and which I did not dare to take, not the least because I did not want to slow down the more experienced riders.
 In Khorugh the three of us met up with Claudia and Peter who also stayed at the Pamir lodge hostel (the hostel were all the overlanders seem to meet in Khorugh).
 
@@ -71,10 +72,10 @@ My tent is secure against mosquitos and other insects but the wind had managed t
 A lot of it.
 I would find sand in every corner of the tent for the next few weeks to come.
 
-Afghanistan has, for historical reasons, a very small part in the north that actually shares a border with china.
+Afghanistan has, for historical reasons, a very small part in the north that actually shares a border with China.
 This very small part is called the Wakhan valley and is separated from the Afghanistan mainland by some mountains that are apparently difficult to cross.
 The Wakhan valley is thus supposed to be peaceful and rather unknown to tourists and can actually be visited.
-Claudia and Peter, the Austrian couple actually crossed over at Ishkashim but I did not want to join them as I was already late on my plan.
+Claudia and Peter, the Austrian couple crossed over at Ishkashim but I did not want to join them as I was already late on my plan.
 You should definitely watch they [video](https://www.youtube.com/watch?v=nOMglDcOTzE) about the trip into Wakhan (and all their other videos as well).
 
 Instead we continued up the pamir mountains.
@@ -84,7 +85,7 @@ We managed to get through without falling, but it hurt my ears listening to my b
 In Langard we filled up our bikes at a "fuel station" that was actually a shed that had the word "Gaz" written on it.
 An old lady had to manually pump fuel from a barrel into a bucket to carry it to our bikes to fill it into our tanks.
 Luckily my bike is not picky when it comes to fuel quality.
-We fought off a guy trying to drag us into his homeistay as we wanted to climb just a few more meters.
+We fought off a guy trying to drag us into his homestay as we wanted to climb just a few more meters.
 The landscape turned into some moon-like scene and we were lucky to find a green spot where some donkeys and goats were kept right across a small families' house.
 We asked nicely and were allowed to pitch our tents, they even moved some of their animals.
 The two girls of the family were very interested in the two foreigners and helped us set up our tents and monitored me closely as I tried to fix my headlight that had gotten loose on the washboard.
@@ -97,7 +98,7 @@ As Natasha has the better camera as well as being more talented at photography, 
 
 ```
 written from Karlsruhe, Germany
-total km ridden: 136549
+total km ridden: 16549
 bike dropped: 10x
 fallen: 1x
 tickets: 1x
