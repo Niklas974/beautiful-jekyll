@@ -90,6 +90,7 @@ The landscape turned into some moon-like scene and we were lucky to find a green
 We asked nicely and were allowed to pitch our tents, they even moved some of their animals.
 The two girls of the family were very interested in the two foreigners and helped us set up our tents and monitored me closely as I tried to fix my headlight that had gotten loose on the washboard.
 
+![Refueling from a local gas station][img9] Refueling from a local gas station
 ![Having a break at the gravel road][img7] Having a break at the gavel road
 ![In the evening we even met some travellers from outer space!][img8] In the evening we even met some travellers from outer space!
 
