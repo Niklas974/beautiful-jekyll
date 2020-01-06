@@ -113,3 +113,4 @@ tickets: 1x
 [img6]: /img/20191102-tajikistan2-06.jpg
 [img7]: /img/20191102-tajikistan2-07.jpg
 [img8]: /img/20191102-tajikistan2-08.jpg
+[img9]: /img/20191102-tajikistan2-09.jpg
