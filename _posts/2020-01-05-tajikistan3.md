@@ -6,24 +6,24 @@ date: 2020-01-05
 categories: blog travel
 ---
 
-In the morning we packed our stuff under the watchfull eyes of the two local girls.
+In the morning Natasha and I packed our stuff under the watchfull eyes of the two local girls.
 We were able to make the older girl very happy by giving her a pen she had asked us for.
 As a young boy had asked me for a pen the day before too, I was now running out.
 If you do go to the pamir region, bring pens, children seem to need them.
 
 We continued up the mountain on a gravel road towards the main pass for the day at 4223m.
 After riding on gravel roads for a few days, we had gradually increased our speed and on the top of a small hill I lost traction on my rear wheel which promptly send me flying and crashing into the road.
-Luckily I was able to brake before falling so I was unhurt and only my foot brakelever was badly bent.
+Luckily I was able to break before falling so I was unhurt and only my foot brake lever was badly bent.
 I had bent it at my first crash in turkey before so I knew how to take it off and just bent it back into "shape" using some big rocks.
 It worked just fine, but instead of being straight it now had a nice wobbly shape.
 
 ![Me, rebending my foot brake lever][img1] Me, rebending my foot brake lever
 
 Even though there is very little traffic in this region, it is not uncommon to meet other western travellers.
-Mostly they can be recognized from afar by their headlight and helmet, no sane local would use either of those!
+Mostly they can be recognized from afar by their headlight and helmet, no sane local would use either of those! ;)
 For most encounters with other western riders on the road, I stopped for a short chat which is usually initiated by a short dog-inspired welcoming ritual.
 To find out whom they are talking to, both riders will lean forward on their bikes as far as possible to ~~sniff the other riders butt~~ look at the other riders number plate to find out where his or her bike is registered.
-Afterwards we usually exchanged a few tips about the road to come and warn each other about problematic sections and discuss options for getting fuel and sleeping.
+Afterwards, we usually exchanged a few tips about the road to come and warned each other about problematic sections and discussed options for getting fuel and sleeping.
 
 We arrived back at the M41 in the afternoon but only rode a short distance before we turned back off towards lake Yassirkul.
 After paying an enterance fee for the national park (?) we found a nice camping spot near another hot spring at the lake.
@@ -32,7 +32,7 @@ Some locals used the hotsprint to wash their car and clothes and we met some she
 ![Camping spot near lake Yassirkul][img2] Camping spot near lake Yassirkul
 
 As the day before, it took me a long time to pack my stuff in the morning because due to the height I just did not have as much energy.
-Also our bikes took quite a while start as they too suffered from the thinner air.
+Also our bikes took quite a while to start as they too suffered from the thinner air.
 We rode back to the M41 and I enjoyed the tarmac on our way to Murghab by listening to some music for the first time in about a week.
 On the previous days, the road had been to difficult to take my attention off it.
 
@@ -56,25 +56,25 @@ This enabled her to take some pictures of this heroic endeavour.
 
 We continued south until we hit a roadblock near a military base.
 Even though it was unmanned, we did not dare to pass and asked at the nearby base if we could continue.
-Unfortunately, to visit the border area where Afghanistan, China and Tajikistan meet, an additional permit is needed which we did not have.
+Unfortunately, to visit the border area where Afghanistan, where China and Tajikistan meet, an additional permit is needed which we did not have.
 Next to the base there is a hot spring in the middle of the river which the military guys allowed us to use.
 We took turns to cross the "bridge" and enjoy the warm and sulfuric water and I used the time waiting for Natasha to fix my mattress which had punctured.
 Below is a picture of the hotspring and the "bridge" leading towards it.
 In front of the river is the local toilet.
 Very often I only found pit toilets in this region but in this case there even was a wall around it.
-What a great luxury!
+What a welcome luxury!
 
 ![Landscape][img5] Landscape
 ![The hotspring in the river][img6] The hotspring in the river. How close does the water need to be so that a pit toilet can be considered a WC?
 
 Even after asking nicely we were not allowed to pass so we turned back north and crossed river Murghab in Toktomush.
 We took a very small track uphill which was so small that grass was growing in between the two tire trenches.
-Even though it was difficult to ride I enjoyed not to have to ride on washboard road any more.
+Even though it was difficult to ride I enjoyed not to have to ride on a washboard road any more.
 We found a camping spot near a small creek that had dried out.
 
 In the morning we continued on the small track westwards back towards the M41 and Murghab.
 We passed a boulder field and I'm still genuinely impressed how any car could fit through some of the gaps, but I guess the locals only use small ladas anyway.
-Unfortunately in some parts the track was made of dried mud with deep trenches dug by some car.
+Unfortunately, in some parts the track was made of dried mud with deep trenches dug by some car.
 Trying to get out of one of those trenches I was not riding fast enough and fell, getting my foot stuck under the bike, twisting my leg.
 Luckily after about half an hour of rest, I was able to continue riding but nevertheless I was very happy about having bought one of those GPS trackers with emergency sattelite communication.
 Had my crash been worse and had I been alone, I could have called for help and somebody would have come to pick me up, 30km from the next road any sane person would use.
@@ -85,9 +85,9 @@ Had my crash been worse and had I been alone, I could have called for help and s
 Afterwards we rode back to Murghab where we found a small homestay.
 I talked to some british guys who were travelling in the other direction in their landrover defender and we exchanged some hints about the road to come.
 
-After applying a lot of voltaren to my foot and nearly missing breakfast, because they seem to be using the Kyrgis timezone in Murghab I spent some time cleaning my chain.
+After applying a lot of voltaren to my foot and nearly missing breakfast, because they seem to be using the Kyrgis timezone in Murghab, I spent some time cleaning my chain.
 As we had fueled up with cold fuel in the evening and my bike was now parked in the sun so my tank was now overflowing.
-We continued towards Kyrgyzstan the M41 was mostly tarmac but as we had to pass the highest pass yet, Natashas carburetta bike decided that 20km/h was a very appropriate speed considering the very thin air.
+We continued towards Kyrgyzstan the M41 was mostly tarmac but as we had to pass the highest pass yet, Natasha's carburetta bike decided that 20km/h was a very appropriate speed considering the very thin air.
 Before crossing into Kyrgyzstan, we passed lake Karakul, which is really beautiful.
 
 ![Road from Murghab, chinese border on the left][img9] Road from Murghab, chinese border on the left
@@ -95,7 +95,7 @@ Before crossing into Kyrgyzstan, we passed lake Karakul, which is really beautif
 ![Lake Karakul][img11] Lake Karakul
 
 One of the brdiges on the road had recently crashed leaving only a water crossing.
-The british guys had warned about the evening before and even in iOverlander there was a warning posted about it.
+The british guys had warned us about the evening before and even in Ioverlander there was a warning posted about it.
 Rivers and creeks in this area seem to vary in size during daytime, even the small creek we had camped at the two nights before was carrying water in the morning.
 Luckily we arrived at a time where the water crossing was easily manegeable.
 A solo rider was not as lucky the evening before.
