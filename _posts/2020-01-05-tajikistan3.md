@@ -13,7 +13,7 @@ If you do go to the pamir region, bring pens, children seem to need them.
 
 We continued up the mountain on a gravel road towards the main pass for the day at 4223m.
 After riding on gravel roads for a few days, we had gradually increased our speed and on the top of a small hill I lost traction on my rear wheel which promptly send me flying and crashing into the road.
-Luckily I was able to break before falling so I was unhurt and only my foot brake lever was badly bent.
+Luckily I was able to brake before falling so I was unhurt and only my foot brake lever was badly bent.
 I had bent it at my first crash in turkey before so I knew how to take it off and just bent it back into "shape" using some big rocks.
 It worked just fine, but instead of being straight it now had a nice wobbly shape.
 
@@ -56,7 +56,7 @@ This enabled her to take some pictures of this heroic endeavour.
 
 We continued south until we hit a roadblock near a military base.
 Even though it was unmanned, we did not dare to pass and asked at the nearby base if we could continue.
-Unfortunately, to visit the border area where Afghanistan, where China and Tajikistan meet, an additional permit is needed which we did not have.
+Unfortunately, to visit the border area where Afghanistan, China and Tajikistan meet, an additional permit is needed which we did not have.
 Next to the base there is a hot spring in the middle of the river which the military guys allowed us to use.
 We took turns to cross the "bridge" and enjoy the warm and sulfuric water and I used the time waiting for Natasha to fix my mattress which had punctured.
 Below is a picture of the hotspring and the "bridge" leading towards it.
@@ -95,7 +95,7 @@ Before crossing into Kyrgyzstan, we passed lake Karakul, which is really beautif
 ![Lake Karakul][img11] Lake Karakul
 
 One of the brdiges on the road had recently crashed leaving only a water crossing.
-The british guys had warned us about the evening before and even in Ioverlander there was a warning posted about it.
+The british guys had warned us about the evening before and even in iOverlander there was a warning posted about it.
 Rivers and creeks in this area seem to vary in size during daytime, even the small creek we had camped at the two nights before was carrying water in the morning.
 Luckily we arrived at a time where the water crossing was easily manegeable.
 A solo rider was not as lucky the evening before.
